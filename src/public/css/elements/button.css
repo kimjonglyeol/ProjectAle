@@ -1,0 +1,10 @@
+/* 채팅룸 입장 이후의 화면에서 사용할 모든 버튼에 공통 적용 */
+
+button, input[type="submit"]{
+    border: 1px solid #aeaeae;
+    border-radius: 8px;
+    background-color: #3b82f6;
+    font-size: 1rem;
+    color: #fff;
+    cursor: pointer;
+}

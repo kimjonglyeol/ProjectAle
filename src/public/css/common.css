@@ -1,0 +1,10 @@
+/* *는 문서 내 모든 요소를 선택할 때 사용하는 선택자
+   문서에 사용할 글꼴 지정
+   border-box는 너비와 높이가 안쪽 여백을 포함해서 계산되도록 설정 */
+*{
+    font-family: serif, monospace;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
